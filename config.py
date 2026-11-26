@@ -37,9 +37,7 @@ try:
         corpo = config['corpo']
         caminho_chrome = config['caminho_chrome']
         teste = config['teste']
-        user_page = config['user_page']
-        senha_page = config['senha_page']
-        return usuario, senha, url, destinatario, assunto, corpo, caminho_chrome, teste, user_page, senha_page
+        return usuario, senha, url, destinatario, assunto, corpo, caminho_chrome, teste
     
     def type_slowly(element, text, delay=0.05):
         # Limpa o campo de entrada antes de digitar devagar
