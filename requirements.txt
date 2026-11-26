@@ -1,0 +1,4 @@
+pandas==1.5.3
+playwright==1.60.0
+PyYAML==6.0.4
+yagmail==0.16.0
