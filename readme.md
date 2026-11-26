@@ -44,7 +44,7 @@ Install dependencies
 Start the automation
 
 ```bash
-  python app.py
+  python main.py
 ```
 
 ## Acknowledgements
